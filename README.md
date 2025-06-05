@@ -4,7 +4,7 @@ Machine Learning Couse (Hands-on & tasks)
 ### Computer Science
 #### State University of Campinas - UNICAMP
 
-PS.: If there are som issue to open the Notebooks, try these links: 
+PS.: If there are any issues to open the Notebooks, try these links: 
 
 - [Hands-on 00](https://drive.google.com/drive/folders/18P5CDKppdb0foLdEXLkpKQW76d7SxuIS?usp=sharing)
 - [Hands-on 01](https://drive.google.com/drive/folders/1GwAQTsbrcnh7Ogs1s3myjDklJc5U0E_6?usp=sharing)
