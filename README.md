@@ -1,5 +1,5 @@
 # MC886-Machine-Learning
-Hands-on for Machine Learning Couse
+Machine Learning Couse (Hands-on & tasks)
 
 ### Computer Science
 #### State University of Campinas - UNICAMP
